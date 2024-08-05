@@ -19,13 +19,15 @@ Desenvolvedor de software com experiência em **Python e C# (.NET)**. Estou em f
 
 ## Projetos
 ### VerifiClima (Em andamento)
-Sistema de extração e armazenamento de previsões do tempo de diferentes fontes para análise de precisão.
+É como um fiscal de previsões do tempo: todo dia realiza a extração de previsões do tempo de dias futuros próximos de diferentes fontes e armazena em uma base de dados.
+É possivel comparar diretamente as previsões versus as temperaturas reais e analisar taxas de erros de cada fonte.
 
-Tecnologias: Python, FastAPI, SQLAlchemy, Azure.
+Tecnologias: Python, FastAPI, React(Typescript), Azure(Azure SQL, Azure Functions, Azure DevOps, Azure App Services)
 
 Repositórios:
 - [Batch para ETL](https://github.com/JoaoAugustoMV/verificlima_backend)
 - [API Rest BFF](https://github.com/JoaoAugustoMV/Verificlima_batch)
+- [Frontend](https://github.com/JoaoAugustoMV/verificlima-front)
 
 ### API BaseCAEPI
 API Rest para consulta de Certificado de Aprovação sobre EPI(Equipamento de Proteção Individual). Quando desenvolvi esta API, esta era a única API a permitir consulta via REST disponivel no Brasil
