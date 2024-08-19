@@ -15,7 +15,7 @@ Desenvolvedor de software com experiência em **Python e C# (.NET)**. Estou em f
 - SQL
 - Docker
 - RabbitMQ
-- Azure(SQL, Functions, App Services, DevOps
+- Azure(SQL, Functions, App Services, DevOps)
 
 ## Projetos
 ### VerifiClima (Em andamento)
