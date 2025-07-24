@@ -25,8 +25,8 @@ Desenvolvedor de software com experiência em **Python e C# (.NET)**. Estou em f
 Tecnologias: Python, FastAPI, React(Typescript), Azure(Azure SQL, Azure Functions, Azure DevOps, Azure App Services)
 
 Repositórios:
-- [Batch para ETL](https://github.com/JoaoAugustoMV/verificlima_backend)
-- [API Rest BFF](https://github.com/JoaoAugustoMV/Verificlima_batch)
+- [Batch para ETL](https://github.com/JoaoAugustoMV/Verificlima_batch)
+- [API Rest BFF](https://github.com/JoaoAugustoMV/verificlima_backend)
 - [Frontend](https://github.com/JoaoAugustoMV/verificlima-front)
 
 ### API BaseCAEPI
