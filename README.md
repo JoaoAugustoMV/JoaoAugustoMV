@@ -19,7 +19,7 @@ Desenvolvedor de software com experiência em **Python e C# (.NET)**. Estou em f
 
 ## Projetos
 
-### FutNotes
+### FutNotes(Em andamento)
 O FutNotes é um aplicativo voltado para comentaristas e jornalistas esportivos, que permite registrar anotações, avaliações de partidas e desempenho de jogadores em tempo real enquanto assistem aos jogos.
 
 O projeto nasceu com o objetivo principal de servir como estudo prático de CQRS, Event Sourcing, Saga Pattern e Kafka utilizando .NET 8.
