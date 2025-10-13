@@ -18,7 +18,15 @@ Desenvolvedor de software com experiência em **Python e C# (.NET)**. Estou em f
 - Azure(SQL, Functions, App Services, DevOps)
 
 ## Projetos
-### VerifiClima (Em andamento)
+
+### FutNotes
+O FutNotes é um aplicativo voltado para comentaristas e jornalistas esportivos, que permite registrar anotações, avaliações de partidas e desempenho de jogadores em tempo real enquanto assistem aos jogos.
+
+O projeto nasceu com o objetivo principal de servir como estudo prático de CQRS, Event Sourcing, Saga Pattern e Kafka utilizando .NET 8.
+
+Repositorio: [Backend](https://github.com/JoaoAugustoMV/FUTNotes)
+
+### VerifiClima (Não finalizado)
 É como um fiscal de previsões do tempo: todo dia realiza a extração de previsões do tempo de dias futuros próximos de diferentes fontes e armazena em uma base de dados.
 É possivel comparar diretamente as previsões versus as temperaturas reais e analisar taxas de erros de cada fonte.
 
