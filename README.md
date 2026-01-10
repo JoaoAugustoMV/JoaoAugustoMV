@@ -46,6 +46,13 @@ Repositório: [API BaseCAEPI](https://github.com/JoaoAugustoMV/API_BaseCAEPI)
 
 Docker Hub: [Imagem - API BaseCAEPI](https://hub.docker.com/repository/docker/joaoaugustomv/api_base_ca_epi/general)
 
+## Livros
+
+- Entendendo Algoritmos
+- Entendendo Concorrência
+- Código Limpo
+- Arquitetura Limpa(lendo)
+
 ## Contato
   - [LinkedIn](https://www.linkedin.com/in/joao-am-vieira/)
   - Email: joaoamvieira23@gmail.com.
