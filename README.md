@@ -51,7 +51,9 @@ Docker Hub: [Imagem - API BaseCAEPI](https://hub.docker.com/repository/docker/jo
 - Entendendo Algoritmos
 - Entendendo Concorrência
 - Código Limpo
-- Arquitetura Limpa(lendo)
+- Refatoração
+- Arquitetura Limpa
+- Aprenda Domain-driven Design: Alinhando Arquitetura de Software e Estratégia de Negócios(lendo)
 
 ## Contato
   - [LinkedIn](https://www.linkedin.com/in/joao-am-vieira/)
